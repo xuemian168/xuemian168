@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xuemian168
 - 👀 I’m interested in Photograph
+- 📖 I’m studying for a master’s degree at QUT
 - 🌱 I’m currently learning Python,Java,Cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xuemian888@gmail.com
