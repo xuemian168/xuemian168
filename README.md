@@ -1,4 +1,4 @@
-<img width="1082" height="766" alt="image" src="https://github.com/user-attachments/assets/e433a0b8-ceda-42f3-9a2a-670f47add35f" /># Graham Han
+# Graham Han
 ---
 **Queensland University of Technology - Master of Information Technology**
 
