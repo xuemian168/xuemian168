@@ -12,20 +12,20 @@
 - Photo Gallery [p.ict.run](https://p.ict.run)
 - zli.li Domain Scanner: [zli.li](https://p.ict.run)
 
-🛡️ Cybersecurity
+## Cybersecurity
 
 - Huawei ICT Certficied Expert (HCIE)
 - NSFOCUS Security Consultant (NSSP-Solution)
 - NSFOCUS Security Engineer (NSSP-Service)
 - TryHackMe Hackfinity Battle 2025 Global TOP 206
 
-☁️ Cloud & Networking
+## Cloud & Networking
 
 - Huawei ICT Certified Routing & Switching Engineer (HCIP)
 - Alibaba Cloud Architect (ACE)
 - Huawei Cloud Expert
 
-🏆 Awards & Recognition
+## Awards & Recognition
 - Huawei Cloud 2023 Outstanding Campus Ambassador
 - Huawei Cloud 2024 Outstanding Campus Ambassador (Pioneer Youth)
 - International Merit Student - Queensland University of Technology
