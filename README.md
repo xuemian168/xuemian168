@@ -1,4 +1,4 @@
-# Graham Han
+<img width="1082" height="766" alt="image" src="https://github.com/user-attachments/assets/e433a0b8-ceda-42f3-9a2a-670f47add35f" /># Graham Han
 ---
 **Queensland University of Technology - Master of Information Technology**
 
@@ -17,6 +17,7 @@
 ## Cybersecurity
 
 - Huawei ICT Certficied Expert (HCIE)
+  ![HCIE](https://www.ict.run/api/uploads/images/0b712e05-0dec-4e0b-847c-eb76f02188c0.jpg)
 - NSFOCUS Security Consultant (NSSP-Solution)
 - NSFOCUS Security Engineer (NSSP-Service)
 - TryHackMe Hackfinity Battle 2025 Global TOP 206
@@ -24,7 +25,10 @@
 ## Cloud & Networking
 
 - Huawei ICT Certified Routing & Switching Engineer (HCIP)
+  ![hcip](https://www.ict.run/api/uploads/images/d4a6e6bc-60b5-4c49-a995-71f503cb84c1.jpg)
 - Alibaba Cloud Architect (ACE)
+  <img width="1000" height="671" alt="image" src="https://github.com/user-attachments/assets/fc062d14-8ae6-4fb2-8957-ada4b0f702e3" />
+
 - Huawei Cloud Expert
 
 ## Awards & Recognition
