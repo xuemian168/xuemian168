@@ -9,8 +9,10 @@
 - 📫 How to reach me xuemian888@gmail.com
 
 - Blog: [ict.run](https://www.ict.run/)
-- Photo Gallery [p.ict.run](https://p.ict.run)
+- Photo Gallery [p.zli.li](https://p.zli.li)
 - zli.li Domain Scanner: [zli.li](https://p.ict.run)
+- h.zli.li Hangzhou-lang Program Language [h.zli.li](https://h.zli.li/)
+- oi.zli.li A visual obfuscation en/decoder [oi.zli.li](https://oi.zli.li/)
 
 ## Cybersecurity
 
