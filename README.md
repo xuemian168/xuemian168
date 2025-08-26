@@ -1,6 +1,6 @@
 # Graham Han
 ---
-** Queensland University of Technology - Master of Information Technology **
+**Queensland University of Technology - Master of Information Technology**
 
 - 👋 Hi, I’m @xuemian168
 - 👀 I’m interested in Photograph
