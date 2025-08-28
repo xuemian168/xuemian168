@@ -106,5 +106,6 @@ Hello! I'm Graham Han (@xuemian168), a dedicated IT professional pursuing my Mas
 <div align="center">
 
 [![Graham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuemian168&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xuemian168)](https://git.io/streak-stats)
 
 </div>
