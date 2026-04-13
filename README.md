@@ -93,7 +93,8 @@ Working on cybersecurity and cloud architecture. Photographer on the side.
 
 <div align="center">
 
-![Graham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuemian168&show_icons=true&theme=radical&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=xuemian168&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=xuemian168&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=xuemian168&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=xuemian168&layout=compact&theme=radical)
 
 </div>
