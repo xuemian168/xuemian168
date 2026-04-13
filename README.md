@@ -9,11 +9,12 @@ Working on cybersecurity and cloud architecture. Photographer on the side.
 
 ## Projects
 
-- Personal Blog — https://www.ict.run
-- Photography Portfolio — https://p.zli.li
-- Domain Security Scanner — https://zli.li
-- Hangzhou Programming Language — https://h.zli.li
-- Visual Obfuscation Tool — https://oi.zli.li
+- **[ict.run](https://www.ict.run)** — Personal blog on security, cloud, and occasional photography notes.
+- **[p.zli.li](https://p.zli.li)** — Photography portfolio.
+- **[zli.li](https://zli.li)** — Bulk domain availability scanner.
+- **[h.zli.li](https://h.zli.li)** — Hangzhou: an esoteric programming language experiment.
+- **[oi.zli.li](https://oi.zli.li)** — Visual obfuscation tool for text and images.
+- **[oui.zli.li](https://oui.zli.li)** — MAC address vendor lookup (OUI database).
 
 ---
 
