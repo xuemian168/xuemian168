@@ -1,3 +1,5 @@
+<img src="https://p.zli.li/images/donglai1.png" alt="banner" width="100%"/>
+
 # Graham Han
 
 Master of Information Technology, Queensland University of Technology.
