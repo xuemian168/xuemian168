@@ -2,10 +2,10 @@
 
 # Graham Han
 
-Master of Information Technology, Queensland University of Technology.
+PhD Student (Natural Language Processing), Queensland University of Technology.
 Working on cybersecurity and cloud architecture. Photographer on the side.
 
-- Blog — https://www.ict.run
+- Blog — https://www.ict.run (Off)
 - Email — XueMian888@Gmail.com
 - Open to collaborating on open-source security and cloud projects.
 
